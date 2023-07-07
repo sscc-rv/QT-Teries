@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.png</file>
+        <file>images/background01.png</file>
+        <file>images/background02.png</file>
+        <file>images/box.gif</file>
+        <file>images/icon.png</file>
+        <file>images/background2.jpg</file>
+        <file>images/libai.jpg</file>
+        <file>images/xiangxiang1.jpg</file>
+        <file>images/mulan1.jpg</file>
+        <file>images/libai01.jpg</file>
+        <file>images/libai02.jpg</file>
+        <file>images/Tetris_background_1.png</file>
+        <file>images/Tetris_background_2.png</file>
+        <file>images/Tetris_background_3.png</file>
+        <file>images/Tetris_background_7.png</file>
+        <file>images/libai22.jpg</file>
+    </qresource>
+</RCC>
